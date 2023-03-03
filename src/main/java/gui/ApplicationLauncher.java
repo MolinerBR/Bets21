@@ -18,7 +18,7 @@ public class ApplicationLauncher {
 	
 	
 	public static void main(String[] args) {
-
+		
 		ConfigXML c=ConfigXML.getInstance();
 	
 		System.out.println(c.getLocale());
@@ -83,6 +83,16 @@ public class ApplicationLauncher {
 			System.out.println("Error in ApplicationLauncher: "+e.toString());
 		}
 		//a.pack();
+		
+		try {
+			MainGUI frame = new MainGUI();
+			frame.setVisible(true);
+			frame.setBusinessLogic(appFacadeInterface);
+		} catch (Exception e) {
+			e.printStackTrace();
+		} finally {
+			
+		}
 
 
 	}
