@@ -20,7 +20,7 @@ import javax.jws.WebService;
  * Interface that specifies the business logic.
  */
 @WebService
-public interface BLFacade  {
+public interface BLFacade  { //Prueba branch
 	  
 
 	/**
