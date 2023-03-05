@@ -1,4 +1,5 @@
 package businessLogic;
+//hola
 import java.util.Date;
 import java.util.ResourceBundle;
 import java.util.Vector;
@@ -9,7 +10,9 @@ import javax.jws.WebService;
 import configuration.ConfigXML;
 import dataAccess.DataAccess;
 import domain.Question;
+import domain.User;
 import domain.Event;
+import domain.Forecast;
 import exceptions.EventFinished;
 import exceptions.QuestionAlreadyExist;
 
@@ -23,6 +26,7 @@ public class BLFacadeImplementation  implements BLFacade {
 	public BLFacadeImplementation()  {		
 		System.out.println("Creating BLFacadeImplementation instance");
 		ConfigXML c=ConfigXML.getInstance();
+		
 		if (c.getDataBaseOpenMode().equals("initialize")) {
 		    dbManager=new DataAccess(c.getDataBaseOpenMode().equals("initialize"));
 		    dbManager.initializeDB();
@@ -123,6 +127,31 @@ public class BLFacadeImplementation  implements BLFacade {
 		dbManager.initializeDB();
 		dbManager.close();
 	}
-
+    
+    /**
+	 * This method adds a new user to the database.
+	 * @return finished True if the user has been added correctly, False otherwise
+	 */
+	@WebMethod public void addUser(String name, String password) {
+		dbManager.open(false);
+		
+		dbManager.addUser(new User(name,password));
+		
+		dbManager.close();
+		
+	}
+	
+	/**
+	 * This method adds a new user to the database.
+	 * @return finished True if the user has been added correctly, False otherwise
+	 */
+	@WebMethod public void addForecast(int num,Event e,String w,Float s) {
+		dbManager.open(false);
+		
+		dbManager.addForecast(new Forecast(num,e,w,s));
+		
+		dbManager.close();
+		
+	}
 }
 

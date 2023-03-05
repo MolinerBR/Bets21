@@ -1,7 +1,11 @@
 package businessLogic;
-//prueba
+
 import java.util.Vector;
 import java.util.Date;
+
+
+
+
 
 //import domain.Booking;
 import domain.Question;
@@ -53,6 +57,18 @@ public interface BLFacade  {
 	 * It is invoked only when the option "initialize" is declared in the tag dataBaseOpenMode of resources/config.xml file
 	 */	
 	@WebMethod public void initializeBD();
+	
+	/**
+	 * This method adds a new user to the database.
+	 * @return finished True if the user has been added correctly, False otherwise
+	 */
+	@WebMethod public void addUser(String name, String password);
+	
+	/**
+	 * This method adds a new user to the database.
+	 * @return finished True if the user has been added correctly, False otherwise
+	 */
+	@WebMethod public void addForecast(int num,Event e,String w,Float s);
 
 	
 }

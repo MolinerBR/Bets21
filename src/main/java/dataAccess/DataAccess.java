@@ -18,7 +18,9 @@ import javax.persistence.TypedQuery;
 import configuration.ConfigXML;
 import configuration.UtilDate;
 import domain.Event;
+import domain.Forecast;
 import domain.Question;
+import domain.User;
 import exceptions.QuestionAlreadyExist;
 
 /**
@@ -251,15 +253,35 @@ public void open(boolean initializeMode){
     	   }
 		
 	}
-public boolean existQuestion(Event event, String question) {
+	public boolean existQuestion(Event event, String question) {
 	System.out.println(">> DataAccess: existQuestion=> event= "+event+" question= "+question);
 	Event ev = db.find(Event.class, event.getEventNumber());
 	return ev.DoesQuestionExists(question);
 	
-}
+	}
+
+	public void addUser(User user) {
+		db.getTransaction().begin();
+		db.persist(user);
+		db.getTransaction().commit();
+		
+		System.out.println("User " + user.name + " added correctly.");
+	}
+
+	public void addForecast(Forecast forecast) {
+		db.getTransaction().begin();
+		db.persist(forecast);
+		db.getTransaction().commit();
+		
+		System.out.println("The forecast has been added correctly.");
+		
+	}
+
 	public void close(){
 		db.close();
 		System.out.println("DataBase closed");
 	}
+
+	
 	
 }

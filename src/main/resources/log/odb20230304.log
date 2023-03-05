@@ -1,0 +1,253 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 10:15:03 #1 store] 
+Database 'C:\Users\Unax\Documents\Asignaturas\Ingenieria del Software\Bets21-master.zip_expanded\Bets21-master\src\main\resources\bets.temp' is opened by 9316@DESKTOP-GFBDID8
+
+[2023-03-04 10:15:03 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 10:15:03 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 10:15:03 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 10:15:03 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 10:15:03 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 10:15:03 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 10:17:11 #1 store] 
+Database 'C:\Users\Unax\Documents\Asignaturas\Ingenieria del Software\Bets21-master.zip_expanded\Bets21-master\src\main\resources\bets.temp' is opened by 9664@DESKTOP-GFBDID8
+
+[2023-03-04 10:17:11 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 10:17:11 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 10:17:11 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 10:17:11 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 10:17:11 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 10:17:11 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 10:43:14 #1 store] 
+Database 'C:\Users\Unax\Documents\Asignaturas\Ingenieria del Software\Bets21-master.zip_expanded\Bets21-master\src\main\resources\bets.temp' is opened by 5904@DESKTOP-GFBDID8
+
+[2023-03-04 10:43:14 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 10:43:14 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 10:43:14 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 10:43:14 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 10:43:14 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 10:43:14 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 11:19:14 #1 store] 
+Database 'C:\Users\Unax\Documents\Asignaturas\Ingenieria del Software\Bets21-master.zip_expanded\Bets21-master\src\main\resources\bets.temp' is opened by 7632@DESKTOP-GFBDID8
+
+[2023-03-04 11:19:14 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 11:19:14 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 11:19:14 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 11:19:14 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 11:19:14 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 11:19:14 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 11:24:00 #1 store] 
+Database 'C:\Users\Unax\Documents\Asignaturas\Ingenieria del Software\Bets21-master.zip_expanded\Bets21-master\src\main\resources\bets.temp' is opened by 5044@DESKTOP-GFBDID8
+
+[2023-03-04 11:24:01 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 11:24:01 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 11:24:01 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 11:24:01 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 11:24:01 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 11:24:01 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 11:24:25 #1 store] 
+Database 'C:\Users\Unax\Documents\Asignaturas\Ingenieria del Software\Bets21-master.zip_expanded\Bets21-master\src\main\resources\bets.temp' is opened by 12156@DESKTOP-GFBDID8
+
+[2023-03-04 11:24:25 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 11:24:25 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 11:24:25 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 11:24:25 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 11:24:25 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 11:24:25 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 11:24:36 #1 store] 
+Database 'C:\Users\Unax\Documents\Asignaturas\Ingenieria del Software\Bets21-master.zip_expanded\Bets21-master\src\main\resources\bets.temp' is opened by 11356@DESKTOP-GFBDID8
+
+[2023-03-04 11:24:36 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 11:24:36 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 11:24:37 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 11:24:37 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 11:24:37 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 11:24:37 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 11:32:54 #1 store] 
+Database 'C:\Users\Unax\Documents\Asignaturas\Ingenieria del Software\Bets21-master.zip_expanded\Bets21-master\src\main\resources\bets.temp' is opened by 7924@DESKTOP-GFBDID8
+
+[2023-03-04 11:32:54 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 11:32:54 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 11:32:54 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 11:32:54 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 11:32:54 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 11:32:54 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 11:34:20 #1 store] 
+Database 'C:\Users\Unax\Documents\Asignaturas\Ingenieria del Software\Bets21-master.zip_expanded\Bets21-master\src\main\resources\bets.temp' is opened by 10364@DESKTOP-GFBDID8
+
+[2023-03-04 11:34:20 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 11:34:20 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 11:34:20 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 11:34:20 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 11:34:20 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 11:34:20 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 11:34:43 #1 store] 
+Database 'C:\Users\Unax\Documents\Asignaturas\Ingenieria del Software\Bets21-master.zip_expanded\Bets21-master\src\main\resources\bets.temp' is opened by 5684@DESKTOP-GFBDID8
+
+[2023-03-04 11:34:43 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 11:34:43 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 11:34:43 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 11:34:43 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 11:34:43 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 11:34:43 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 11:39:14 #1 store] 
+Database 'C:\Users\Unax\Documents\Asignaturas\Ingenieria del Software\Bets21-master.zip_expanded\Bets21-master\src\main\resources\bets.temp' is opened by 17232@DESKTOP-GFBDID8
+
+[2023-03-04 11:39:14 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 11:39:14 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 11:39:14 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 11:39:14 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 11:39:14 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 11:39:14 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
